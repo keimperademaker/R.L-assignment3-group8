@@ -91,7 +91,7 @@ def test_script():
     all_results = []
 
     # import here your trained neural network
-    trained_nn = 'path_to_your_nn.pth'
+    trained_nn = 'dqn_curriculum_long_to_short.pth'
 
     results = {}
     total_score = 0
